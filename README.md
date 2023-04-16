@@ -12,14 +12,14 @@ This is a Python project that uses OpenCV and face_recognition libraries to reco
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/<your_username>/face-recognition-attendance-system.git`
+1. Clone the repository: `git clone https://github.com/T81oub/Face-Recognition-AttendanceSystem.git`
 2. Install the required packages: `pip install -r requirements.txt`
-3. Run the code: `python face_recognition_attendance.py`
+3. Run the code: `python AttendanceProject.py`
 
 ## Usage
 
 1. Add images of the people you want to recognize in the `ImagesBasic` folder
-2. Run the code using the command `python face_recognition_attendance.py`
+2. Run the code using the command `python AttendanceProject.py`
 3. The program will recognize the faces and mark attendance in a CSV file
 
 ## Example
@@ -30,4 +30,4 @@ Here is an example of how the program works:
 
 ## Credits
 
-This project was created by <your_name>. Feel free to use it and modify it as you wish.
+
